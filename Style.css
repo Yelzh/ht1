@@ -1,0 +1,43 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family:cursive;
+}
+h1{
+  margin-top: 0;
+}
+.top-container{
+  background: #E4F9F5;
+}
+.center{
+  display: block;
+  margin-left: 960px;
+}
+.mountain{
+  margin-left: 340px;
+}
+.instagram{
+  width: 40px;
+  height: 40px;
+}
+.gmail{
+  width: 40px;
+  height: 40px;
+}
+.watsapp{
+  width: 40px;
+  height: 40px;
+}
+
+body{
+  background-color:#b2c3ae;
+}
+h2{background-color: #ffffb2}
+hr{
+border-style: none;
+border-top: dotted;
+height: 10px;
+width: 100px;
+position: rel;
+left: 100px:
+}
